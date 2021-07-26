@@ -1,3 +1,3 @@
-- Hi, I am Himanshu, a grade 10th student who aims on becoming a professional programmer.
+- Hi, I am a grade 10th student who aims on becoming a professional programmer.
 - My programming skills include working with data structures and algorithms, application development, database management and cryptography.
 - I presently know Java, C++ and SQL but I want to learn Python and JavaScript too before I graduate from school.
